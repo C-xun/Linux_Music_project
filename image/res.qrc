@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/" lang="*">
+        <file>big.png</file>
+        <file>close.png</file>
+        <file>clothes.png</file>
+        <file>logo.png</file>
+        <file>mail.png</file>
+        <file>narrow.png</file>
+        <file>res.qrc</file>
+        <file>search.png</file>
+        <file>set.png</file>
+        <file>small.png</file>
+        <file>last.png</file>
+        <file>next.png</file>
+        <file>play.png</file>
+        <file>suspend.png</file>
+        <file>list.png</file>
+        <file>play1.png</file>
+        <file>play2.png</file>
+        <file>play3.png</file>
+        <file>play4.png</file>
+        <file>sound.png</file>
+        <file>favorite.png</file>
+        <file>friend.png</file>
+        <file>load.png</file>
+        <file>localM.png</file>
+        <file>music.png</file>
+        <file>privateFM.png</file>
+        <file>radio.png</file>
+        <file>sing.png</file>
+        <file>sound1.png</file>
+        <file>style1.jpg</file>
+        <file>style2.jpg</file>
+        <file>style3.jpg</file>
+        <file>transparent.png</file>
+        <file>sound2.png</file>
+        <file>sound3.png</file>
+    </qresource>
+</RCC>
